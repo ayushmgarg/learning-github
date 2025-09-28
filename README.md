@@ -37,6 +37,8 @@ git add "file-name" (for particular file) <br>
 To record change (locally):<br>
 git commit -m "some message" <br>
 
+Push command (local to github):<br>
+git push origin "branch name" <br>
 
 Followed Tutorial by Apna College:
 <br>

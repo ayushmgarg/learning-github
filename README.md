@@ -34,7 +34,7 @@ To add files before committing to let git know about all the new files created:<
 git add .  (for more than 1 file)<br>
 git add "file-name" (for particular file) <br>
 
-To record change:<br>
+To record change (locally):<br>
 git commit -m "some message" <br>
 
 
